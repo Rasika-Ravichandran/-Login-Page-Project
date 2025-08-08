@@ -1,39 +1,48 @@
-# -Login-Page-Project
 # Login Page Project
 
-A simple login page created using HTML, CSS, and JavaScript.  
-This project demonstrates basic authentication logic with a predefined username and password.
+A simple and responsive login page created using **HTML**, **CSS**, and **JavaScript**.  
+It includes username & password authentication with a success alert.
 
-## 🚀 Live Demo
-[Click Here](https://rasika-ravichandran.github.io/login-project/)
+---
 
 ## 📸 Screenshot
-![Screenshot](https://github.com/Rasika-Ravichandran/login-project/blob/main/login-screenshot.png?raw=true)
 
-## 💡 Features
-- Simple and clean UI  
-- Username and password authentication  
-- Alert message for success or failure  
+![Login Page Screenshot](https://github.com/Rasika-Ravichandran/Login-Page-Project/blob/main/login-screenshot.png.png?raw=true)
 
-## 🖥️ How to Use
-1. Open the [Live Demo](https://rasika-ravichandran.github.io/login-project/).
-2. Enter the following credentials:
+---
 
-   **Default Login Credentials**  
-   - **Username:** Rasika-Ravichandran  
-   - **Password:** Rasika@2005  
+## 🚀 Live Demo
 
-3. Click **Login**.
-4. You will see an alert message indicating whether the login was successful.
+[Click Here to View Live Demo](https://rasika-ravichandran.github.io/Login-Page-Project/)
+
+---
+
+## 🔑 Default Credentials
+- **Username:** Rasika-Ravichandran  
+- **Password:** Rasika@2005  
+
+---
 
 ## 🛠️ Technologies Used
 - HTML  
 - CSS  
 - JavaScript  
 
-## 📥 Installation (Optional)
-If you want to run it locally:  
-```bash
-git clone https://github.com/Rasika-Ravichandran/login-project.git
-cd login-project
-open index.html
+---
+
+## 📌 Features
+- Simple login page design  
+- Username & password verification  
+- Responsive layout  
+
+---
+
+## 📂 How to Use
+1. Open the **Live Demo** link above  
+2. Enter the username and password provided  
+3. Click **Login** to see the success message  
+
+---
+⭐ *If you like this project, don’t forget to give it a star on GitHub!*
+
+⭐ *If you like this project, don’t forget to give it a star on GitHub!*
