@@ -43,6 +43,5 @@ It includes username & password authentication with a success alert.
 3. Click **Login** to see the success message  
 
 ---
-⭐ *If you like this project, don’t forget to give it a star on GitHub!*
 
 ⭐ *If you like this project, don’t forget to give it a star on GitHub!*
